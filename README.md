@@ -18,4 +18,4 @@ Soy un científico de datos en formación con un máster en Big Data y Business 
 ### Otro Proyecto
 ### Modelo predictivo para anticipar gasto y churn
 - Descripción: Desarrollar un modelo predictivo que permita anticipar: por un lado, predecir el gasto de los clientes y, por otro, identificar a aquellos clientes con riesgo de abandonar la compañía (churn) durante el mes en curso. Además, se llevó a cabo la simulación de una campaña dirigida a retener a dichos clientes.
-- Ver Proyecto: 
+- [Ver Proyecto](https://github.com/luis-alberto-vieira-25194752/Trabajo-final-de-ciencia-de-datos.git) 
