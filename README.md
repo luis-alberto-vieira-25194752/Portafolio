@@ -2,9 +2,8 @@
 
 ### Luis Alberto Vieira Domingos
 
--[Mi perfil de LinkedIn](www.linkedin.com/in/luis-alberto-vieira-domingos-25194752)
-
 -[Portafolio web](https://github.com/luis-alberto-vieira-domingos-25194752/Portafolio.git)
+
 # Mi portafolio de ciencia de datos
 
 ## Sobre mí
