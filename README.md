@@ -1,6 +1,6 @@
 # Autor 
 ### Luis Alberto Vieira Domingos
--[linkedin](https://www.linkedin.com/in/luis-alberto-vieira-25194752)
+-[linkedin](www.linkedin.com/in/luis-alberto-vieira-domingos-25194752)
 
 -[Portafolio web](https://github.com/luis-alberto-vieira-25194752/Portafolio.git)
 # Mi portafolio de ciencia de datos
